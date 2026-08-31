@@ -77,5 +77,7 @@ visualizations/   Generated charts
 reports/          Research reports
 
 
-## Author
-Malaika Jabeen GitHub: mjcodes-77
+**## Author**
+
+Malaika Jabeen  
+GitHub: [mjcodes-77](https://github.com/mjcodes-77)
